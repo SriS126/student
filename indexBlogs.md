@@ -1,5 +1,5 @@
 ---
 layout: blogs
 permalink: /blogs
-title: Blogs
+title: Sri's Blog
 ---
