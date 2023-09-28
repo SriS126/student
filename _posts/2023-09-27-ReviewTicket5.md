@@ -1,6 +1,6 @@
 ---
 toc: false
-comments: false
+comments: true
 layout: post
 title: Review Ticket
 description: Here is my Week 5 Review Ticket from the Hacks Test.
@@ -8,7 +8,6 @@ type: tangibles
 courses: { compsci: {week: 5} }
 ---
 
-## GPT REVIEW AND SUMMARY
 
 # Summary of JavaScript Concepts
 
@@ -62,4 +61,5 @@ courses: { compsci: {week: 5} }
 - The `onclick` event allows developers to trigger functions when certain HTML elements are clicked.
 
 
-## Didn't Collaborate, did by myself
+## Scores
+- 
