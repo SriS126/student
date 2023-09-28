@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Superhero Quiz
+title: Superhero Quiz!!!
 description: A basic quiz about some superheros, can you get them all right?
 type: hacks
 courses: { compsci: {week: 2} }
