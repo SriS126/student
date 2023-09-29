@@ -62,4 +62,4 @@ courses: { compsci: {week: 5} }
 
 
 ## Scores
-- 
+- 4/4 - Anvay, explained the code well and did everything required.
